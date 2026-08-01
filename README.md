@@ -17,3 +17,4 @@ Urban Voice is a Smart City Report & Feedback System developed as a group projec
 
 ## Team Project
 Developed as part of an academic group project.
+
