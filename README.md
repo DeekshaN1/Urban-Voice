@@ -1,17 +1,19 @@
-# urban_voice
+# Urban Voice
 
-A new Flutter project.
+Urban Voice is a Smart City Report & Feedback System developed as a group project.
 
-## Getting Started
+## Features
+- User Authentication
+- Report civic issues
+- Upload issue images
+- Track complaints
+- Firebase Integration
+- Smart City Dashboard
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- Firebase
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Team Project
+Developed as part of an academic group project.
