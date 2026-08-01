@@ -1,0 +1,48 @@
+name: urban_voice
+description: Urban Voice - Smart City Report & Feedback App
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+
+  # UI
+  google_fonts: ^6.2.1
+  page_transition: ^2.1.0
+
+  # Maps & Location
+  google_maps_flutter: ^2.9.0
+  geolocator: ^13.0.1
+
+  # Image Picker
+  image_picker: ^1.1.2
+
+  # Email
+  http: ^1.2.2
+  emailjs: ^4.0.0
+
+  # Storage & Utilities
+  shared_preferences: ^2.3.2
+  intl: ^0.19.0
+  uuid: ^4.5.1
+  webview_flutter: ^4.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

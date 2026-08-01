@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117118332519",
+    "project_id": "urban-voice-adad9",
+    "storage_bucket": "urban-voice-adad9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117118332519:android:cff65e918d8e19662eaec2",
+        "android_client_info": {
+          "package_name": "com.example.urban_voice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA2OjQBJCMSxI0plL279lhDvoeHCDiQyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
